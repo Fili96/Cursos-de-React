@@ -1,0 +1,5 @@
+Curso de React en Udemy impartido por Juan Pablo de la Torre Valdes
+
+Notas:
+Fecha: 22-01-2020
+Retomar desde clase 58
